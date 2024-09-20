@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LachezarUzunov
-- 👀 I’m interested in JavaScript, CSS3, HTML5
-- 🌱 I’m currently learning React and Angular
-- 💞️ I’m looking to collaborate on ...
+- 👀 Fullstack developer with React, NextJS, Vue and Laravel.
 - 📫 How to reach me --> LinkedIn profile --> https://www.linkedin.com/in/lachezar-uzunov
 
 <!---
